@@ -7,5 +7,11 @@
 
 ![Reading, Writting data](![Thecreate-update_step](https://user-images.githubusercontent.com/65688803/121758347-08e2ae00-caef-11eb-980b-8290785876df.JPG)
 
+3). Succesfully added migration.
+
+![Build migration](![Build migration](https://user-images.githubusercontent.com/65688803/121758937-827b9b80-caf1-11eb-96fa-92e21a89cce9.JPG)
+
+
+
 
   Thank you!
