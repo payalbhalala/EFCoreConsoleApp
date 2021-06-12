@@ -9,7 +9,7 @@
 
 3). Succesfully added migration.
 
-![Build migration](![Build migration](https://user-images.githubusercontent.com/65688803/121758937-827b9b80-caf1-11eb-96fa-92e21a89cce9.JPG)
+![Build migration](https://user-images.githubusercontent.com/65688803/121758937-827b9b80-caf1-11eb-96fa-92e21a89cce9.JPG)
 
 
 
